@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+kagglehub
+pypdf
+PyPDF2
+scikit-learn
+langchain-core
+langgraph
+langchain-google-genai
