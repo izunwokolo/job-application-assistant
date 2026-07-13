@@ -1,0 +1,23 @@
+# Environment variables / API keys
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Personal files - don't commit your actual resume
+*.pdf
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
